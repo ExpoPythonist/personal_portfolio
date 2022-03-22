@@ -152,6 +152,9 @@ section {
 
 .header .navbar{
     padding-top: 1rem;
+    width: 270px;
+    height: 300px;
+    overflow-y: auto;
 }
 
 .header .navbar a{
